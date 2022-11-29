@@ -3,7 +3,7 @@
 </p>
 
 # MistCord
-A modern Discord client modifaction and selfbot
+A modern Discord client modification and self-bot 
 
 ## Features
 - Live injection via websockets
